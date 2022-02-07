@@ -6,7 +6,7 @@ https://retirada-ftth.vercel.app/
 
 ### Tecnologias utilizadas.
 - [x] SQL, M, Dax
-- [x] SQL SERVER , POWER QUERY e TALEND
+- [x] SQL SERVER , POWER QUERY , TALEND e POWERBI
 
 <p align="center">Retirada de produtos FTTH</p>
 
