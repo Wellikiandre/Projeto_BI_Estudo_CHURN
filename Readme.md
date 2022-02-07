@@ -1,7 +1,7 @@
 # Projeto Profissional de BI
 <h1 align="center">
 https://retirada-ftth.vercel.app/
-<h6> ☑ Senha para acessar o link acima => "retffth"</h6>
+<h6> ☑ Senha para acessar o link acima => "retftth"</h6>
 </h1>
 
 ### Tecnologias utilizadas.
