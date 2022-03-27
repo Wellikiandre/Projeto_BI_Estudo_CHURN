@@ -8,7 +8,11 @@ https://retirada-ftth.vercel.app/
 - [x] SQL, M, Dax
 - [x] SQL SERVER , POWER QUERY , TALEND e POWERBI
 
-<p align="center">Retirada de produtos FTTH</p>
+<p align="center">RESUMO NO LINK ABAIXO (PASSO A PASSO)</p>
+<h1 align="center">
+encurtador.com.br/aevJ1
+
+</h1>
 
 <div align="center">
   
