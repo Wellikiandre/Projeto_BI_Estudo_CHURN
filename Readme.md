@@ -1,6 +1,6 @@
 # Projeto Profissional de BI
 <h1 align="center">
-https://retirada-ftth.vercel.app/
+https://projeto-bi-estudo-churn-wellikiandre.vercel.app/
 <h6> ☑ Senha para acessar o link acima => "wellik2022"</h6>
 </h1>
 #RESUMO NO LINK ABAIXO (PASSO A PASSO)
