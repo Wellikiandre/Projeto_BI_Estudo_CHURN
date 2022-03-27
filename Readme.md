@@ -10,7 +10,7 @@ https://retirada-ftth.vercel.app/
 
 <p align="center">RESUMO NO LINK ABAIXO (PASSO A PASSO)</p>
 <h1 align="center">
-encurtador.com.br/aevJ1
+https://encurtador.com.br/aevJ1
 
 </h1>
 
