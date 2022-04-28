@@ -12,10 +12,3 @@ https://encurtador.com.br/aevJ1
 ### Tecnologias utilizadas.
 - [x] SQL, M, Dax
 - [x] SQL SERVER , POWER QUERY , TALEND e POWERBI
-
-
-
-<div align="center">
-  
-</div>
-<hr />
